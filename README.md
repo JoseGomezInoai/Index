@@ -1,2 +1,2 @@
 # Index
-https://josegomezinoai.github.io/Index.html/
+https://josegomezinoai.github.io/Index/
