@@ -1,2 +1,2 @@
 # Index
-https://github.com/JoseGomezInoai/Index.git
+https://josegomezinoai.github.io/Index.html/
